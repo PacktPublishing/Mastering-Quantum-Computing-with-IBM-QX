@@ -4,6 +4,7 @@ Mastering Quantum Computing with IBM QX, by Dr. Christine Corbett Moran publishe
 # To setup your virtual environment:
 ```
 git clone https://github.com/PacktPublishing/Mastering-Quantum-Computing-with-IBM-QX.git
+cd Mastering-Quantum-Computing-with-IBM-QX
 python3 -m venv book
 source book/bin/activate
 pip install -r requirements.txt

@@ -1,4 +1,4 @@
-numpy
-matplotlib
+numpy==1.16.0
+matplotlib==3.0.2
 qiskit==0.7.0
-pygame
+pygame==1.9.4

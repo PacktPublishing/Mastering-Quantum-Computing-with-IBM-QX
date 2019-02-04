@@ -44,7 +44,9 @@ Note: if Python is a version of Python 3 on your system, you may need to/want to
 
 ### To run a jupyter notebook from commandline, exporting results to Markdown
 Use the following command to run Jupyter Notebook:
-* ```jupyter notebook```
+```
+jupyter notebook
+```
 
 Navigate to your notebook in the browser. Then go to Kernel | bookkernel in the
 notebook's UI.

@@ -30,6 +30,31 @@ The code will look like the following:
 from qiskit.tools.visualization import plot_histogram
 plot_histogram(job_exp.result().get_counts(qc))
 ```
+# To setup book code and Python virtual environment
+Run the following commands step wise to set up Python virtual environment:
+* git clone
+https://github.com/PacktPublishing/Mastering-Quantum-Computingwith-IBM-QX.git
+* cd Mastering-Quantum-Computing-with-IBM-QX
+* python3 -m venv book
+* source book/bin/activate
+* pip install -r requirements.txt
+* pip install ipykernel
+* ipython kernel install --user --name=bookkernel
+
+Note: if `python` is a version of Python 3 on your system, you may need to/want to type `python` instead of `python3` above
+
+# To run Jupyter notebook
+`jupyter notebook`
+
+* Navigate to your notebook in the browser
+* Then go to Kernel->bookkernel in the notebook's UI
+
+## To run a jupyter notebook from commandline, exporting results to Markdown
+Use the following command to run Jupyter Notebook:
+* jupyter notebook
+
+Navigate to your notebook in the browser. Then go to Kernel | bookkernel in the
+notebook's UI.
 
 **Following is what you need for this book:**
 If you're a developer or data scientist interested in learning quantum computing, this book is for you. You're expected to have basic understanding of the Python language, but knowledge of physics, quantum mechanics, or advanced mathematics is not required.
@@ -38,16 +63,11 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| All | Python 3.4+ | Cross platform |
+| All | qiskit 0.7.0 | Cross platform |
+| All | numpy 1.16.0 | Cross platform |
+| All | matplotlib 3.0.2 | Cross platform |
+| 8 | pygame 1.9.4 | Cross platform |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789136432_ColorImages.pdf).
 
@@ -60,7 +80,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Dr. Christine Corbett Moran**
 is a researcher and engineer at NASA JPL, specializing in cybersecurity. She also serves as a guest scientist at Caltech, specializing in astrophysics. Her research spans fundamental physics and computer science, and she has published peer-reviewed papers on astrophysics, astronomy, artificial intelligence, and quantum computing, garnering thousands of citations. Her software products range from iOS applications to quantum computing simulators and have received millions of downloads. She has a PhD and master's in Astrophysics from the University of Zurich, and a B.S. in Computer Science and Engineering, and a B.S. in Physics from MIT. She can be found on Twitter at @corbett.
 
-## Other books by the authors
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 

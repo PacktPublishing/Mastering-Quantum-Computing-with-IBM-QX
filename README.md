@@ -32,20 +32,19 @@ plot_histogram(job_exp.result().get_counts(qc))
 ```
 ### To setup book code and Python virtual environment
 Run the following commands step wise to set up Python virtual environment:
-* git clone
-https://github.com/PacktPublishing/Mastering-Quantum-Computingwith-IBM-QX.git
-* cd Mastering-Quantum-Computing-with-IBM-QX
-* python3 -m venv book
-* source book/bin/activate
-* pip install -r requirements.txt
-* pip install ipykernel
-* ipython kernel install --user --name=bookkernel
+* ```git clone https://github.com/PacktPublishing/Mastering-Quantum-Computingwith-IBM-QX.git```
+* ```cd Mastering-Quantum-Computing-with-IBM-QX```
+* ```python3 -m venv book```
+* ```source book/bin/activate```
+* ```pip install -r requirements.txt```
+* ```pip install ipykernel```
+* ```ipython kernel install --user --name=bookkernel```
 
-Note: if `python` is a version of Python 3 on your system, you may need to/want to type `python` instead of `python3` above
+Note: if Python is a version of Python 3 on your system, you may need to/want to type Python instead of Python3 above
 
 ### To run a jupyter notebook from commandline, exporting results to Markdown
 Use the following command to run Jupyter Notebook:
-* jupyter notebook
+* ```jupyter notebook```
 
 Navigate to your notebook in the browser. Then go to Kernel | bookkernel in the
 notebook's UI.

@@ -30,7 +30,7 @@ The code will look like the following:
 from qiskit.tools.visualization import plot_histogram
 plot_histogram(job_exp.result().get_counts(qc))
 ```
-# To setup book code and Python virtual environment
+### To setup book code and Python virtual environment
 Run the following commands step wise to set up Python virtual environment:
 * git clone
 https://github.com/PacktPublishing/Mastering-Quantum-Computingwith-IBM-QX.git
@@ -43,7 +43,7 @@ https://github.com/PacktPublishing/Mastering-Quantum-Computingwith-IBM-QX.git
 
 Note: if `python` is a version of Python 3 on your system, you may need to/want to type `python` instead of `python3` above
 
-## To run a jupyter notebook from commandline, exporting results to Markdown
+### To run a jupyter notebook from commandline, exporting results to Markdown
 Use the following command to run Jupyter Notebook:
 * jupyter notebook
 

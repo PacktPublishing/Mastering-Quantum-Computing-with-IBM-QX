@@ -66,6 +66,18 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789136432_ColorImages.pdf).
 
+## Errata</br>
+*Page 22 (Paragraph 5, line 1) **Storing the equivalent of a qubit of information** _should be_ **Storing a qubit of information**</br>
+*Page 23  (Paragraph 5, line 5) **That way, you'll be able to get started coding without having to understand the math, but still be able to follow other descriptions of quantum computing, which assume you know the math inside and out.** _should be_ **That way, you'll have the option to begin coding without understanding the math, yet have the option to pursue different depictions of quantum processing, which expect you know the math completely.**</br>
+*Page 27 (Paragraph 6, line 3) **you'll continue to to see me always** _should be_ **you'll continue to see me always**</br>
+*Page 28 (Paragraph 1, line 3) **They defined in words/algebra as follows:** _should be_ **They are defined in words/algebra as follows:**</br>
+*Page 34 (Paragraph 1, line 3) **we we can generate a bunch of different** _should be_ **we can generate a bunch of different**</br>
+*Page 215 (Paragraph 3, line 1) **The indented items all depend on the result computed one indentation in.** _should be_ **The indented items all depend on the result computed in one indentation.**</br>
+*Page 220 (Paragraph 4, line 2) **GCD of the random number we chose `a ` and the number we wish to factor ` N` isn't one and `N`  isn't one.** _should be_ **GCD of the random number `a ` and the number we wish to factor `N ` isn't one.**</br>
+*Page 221 (Paragraph 1, line 1) **One example run** _should be_ **Running the example for the first time**</br>
+*Page 223 (Paragraph 1, line 1) **Let's trace through the an example** _should be_ **Let us trace this through an example**</br> 
+*Page 225 (Paragraph 7, line 1) **_(mod 35)_.,all** _should be_ **_(mod 35)_, all**</br> 
+
 ### Related products
 * Hands-On Cybersecurity with Blockchain [[Packt]](https://www.packtpub.com/networking-and-servers/hands-cybersecurity-blockchain?utm_source=github&utm_medium=repository&utm_campaign=9781788990189) [[Amazon]](https://www.amazon.com/dp/B07DTB3SLX)
 

@@ -73,10 +73,10 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 *Page 28 (Paragraph 1, line 3) **They defined in words/algebra as follows:** _should be_ **They are defined in words/algebra as follows:**</br>
 *Page 34 (Paragraph 1, line 3) **we we can generate a bunch of different** _should be_ **we can generate a bunch of different**</br>
 *Page 215 (Paragraph 3, line 1) **The indented items all depend on the result computed one indentation in.** _should be_ **The indented items all depend on the result computed in one indentation.**</br>
-*Page 220 (Paragraph 4, line 2) **GCD of the random number we chose `a ` and the number we wish to factor ` N` isn't one and `N`  isn't one.** _should be_ **GCD of the random number `a ` and the number we wish to factor `N ` isn't one.**</br>
-*Page 221 (Paragraph 1, line 1) **One example run** _should be_ **Running the example for the first time**</br>
-*Page 223 (Paragraph 1, line 1) **Let's trace through the an example** _should be_ **Let us trace this through an example**</br> 
-*Page 225 (Paragraph 7, line 1) **_(mod 35)_.,all** _should be_ **_(mod 35)_, all**</br> 
+*Page 227 (Paragraph 4, line 2) **GCD of the random number we chose `a ` and the number we wish to factor ` N` isn't one and `N`  isn't one.** _should be_ **GCD of the random number `a ` and the number we wish to factor `N ` isn't one.**</br>
+*Page 228 (Paragraph 1, line 1) **One example run** _should be_ **Running the example for the first time**</br>
+*Page 230 (Paragraph 1, line 1) **Let's trace through the an example** _should be_ **Let us trace this through an example**</br> 
+*Page 232 (Paragraph 7, line 1) **_(mod 35)_.,all** _should be_ **_(mod 35)_, all**</br> 
 
 ### Related products
 * Hands-On Cybersecurity with Blockchain [[Packt]](https://www.packtpub.com/networking-and-servers/hands-cybersecurity-blockchain?utm_source=github&utm_medium=repository&utm_campaign=9781788990189) [[Amazon]](https://www.amazon.com/dp/B07DTB3SLX)

@@ -77,7 +77,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 *Page 228 (Paragraph 1, line 1) **One example run** _should be_ **Running the example for the first time**</br>
 *Page 230 (Paragraph 1, line 1) **Let's trace through the an example** _should be_ **Let us trace this through an example**</br> 
 *Page 232 (Paragraph 7, line 1) **_(mod 35)_.,all** _should be_ **_(mod 35)_, all**</br> 
-
+*Page 3 ( Preface **What this book covers** section) **The assessment link is inactive as it is not there. Author encourages readers to solve the questions by their own.**
 ### Related products
 * Hands-On Cybersecurity with Blockchain [[Packt]](https://www.packtpub.com/networking-and-servers/hands-cybersecurity-blockchain?utm_source=github&utm_medium=repository&utm_campaign=9781788990189) [[Amazon]](https://www.amazon.com/dp/B07DTB3SLX)
 
